@@ -70,6 +70,7 @@ class Calculator{
 				break;
 			}
 			System.out.println("Do you want to continue?1.Yes 2.No");
+			System.out.println("Do you want to continue?1.Yes 2.No");
 			z=in.nextInt();
 		}while(z==1);
 	}
